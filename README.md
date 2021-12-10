@@ -11,3 +11,5 @@
 - Гордый автор шутки [Каннибалтика](https://i.imgur.com/6B4VVRT.png)
 - Википедия - самая известная пародия на [абсурдопедию](https://absurdopedia.net/)
 - Нравится квас
+
+[Мой сайт](https://memeberry.herokuapp.com/) | [Мой Discord-сервер](https://discord.gg/mTTcMCvEs4)
