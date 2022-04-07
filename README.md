@@ -4,7 +4,7 @@
 - Пассивный кодописатель на JavaScript и *C#*. (выделенное курсивом - новичок; информация обновлена 10.12.2021)
 - В душе [каракал](https://ru.wikipedia.org/wiki/Каракал). Ну, или нравятся эти животные
 - Нравятся [World of Goo](https://ru.wikipedia.org/wiki/World_of_Goo), Minecraft.
-- I use [FabricMC](https://fabricmc.org) btw
+- I use [FabricMC](https://fabricmc.net) btw
 - Ленивый. (ого удивительно)
 - Если мне что-то, что вы придумали, понравится, возможно, будет мною скопировано
 - Хвалю [свободное](https://ru.wikipedia.org/wiki/GNU) ПО. Иногда оно написано с душой
