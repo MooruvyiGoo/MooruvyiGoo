@@ -11,6 +11,6 @@
 	**Статья 7.** В случае любых споров или конфликтов, участники будут разрешать их исключительно мирным путём в порядке дружественного обмена мнениями.
 	**Статья 8.** Участники обещают быть честными между собой и не использовать любые лазейки в этом договоре
 	Первая версия составлена 3-4 июня 2022 г. на одном языке. Оригиналы хранятся на следующих ссылках:
- - Github: https://github.com/xh360/xh360/main/links/dates/2022/6/3/1.0/pact.md (данная версия)
+ - Github: https://github.com/xh360/xh360/links/dates/2022/6/3/1.0/pact.md (данная версия)
 - Telegraph: https://telegra.ph/DOGOVOR-O-NENAPADENII-MEZHDU-RESKOM-I-KSASHEM-06-03
 - Imgur: https://imgur.com/a/5LcJyU5 (пост), https://i.imgur.com/aMEtlwf.png (тёмная тема), https://i.imgur.com/7tb8R12.png (светлая тема)
