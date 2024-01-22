@@ -10,4 +10,4 @@
 
 \* idk how correct in english
 
-[@xh360](https://t.me/xh360) (telegram) | [`@xh360` (@xh360](https://discord.com/users/726656183817076738) (discord) | [`@xh360:matrix.org`](https://matrix.to/#/@xh360:matrix.org) | [`@xh360@mastodon.social`](https://mastodon.social/@xh360)
+[`@xh360`](https://t.me/xh360) (telegram) | [`@xh360`](https://discord.com/users/726656183817076738) (discord) | [`@xh360:matrix.org`](https://matrix.to/#/@xh360:matrix.org) | [`@xh360@mastodon.social`](https://mastodon.social/@xh360)
