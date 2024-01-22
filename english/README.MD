@@ -1,6 +1,11 @@
 # Who i am?
-- My nickname is xh360
+- My nickname is xh360, i'm a russian student.
 - Languages: Russian (native), English (middle-poor)
-- Average kvas enjoyer
+- Average kvas* enjoyer
 - Sometimes playing Minecraft JE (BE sucks), World of Goo, Garry's Mod
 - Writing JS (from 2019 year), Java (started recently). Tried in the past: C#, C++, Rust, C, Python (for a long time)
+- I use FabricMC btw
+- I use Windows 11, Windows 10 and Manjaro (xfce) btw
+- 
+
+* idk how correct in english
