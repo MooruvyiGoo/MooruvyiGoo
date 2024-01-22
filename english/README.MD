@@ -3,4 +3,4 @@
 - Languages: Russian (native), English (middle-poor)
 - Average kvas enjoyer
 - Sometimes playing Minecraft JE (BE sucks), World of Goo, Garry's Mod
-- Writing 
+- Writing JS (from 2019 year), Java (started recently). Tried in the past: C#, C++, Rust, C
