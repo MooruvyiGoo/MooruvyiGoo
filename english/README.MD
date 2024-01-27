@@ -6,6 +6,7 @@
 - Writing JS (from 2019 year), Java (started recently). Tried in the past: C#, C++, Rust, C, Python (for a long time)
 - I use FabricMC btw
 - I use Windows 11, Windows 10 and Manjaro (xfce) btw
+- Average industrial aesthetics enjoyer
 
 
 \* idk how correct in english
