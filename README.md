@@ -1,4 +1,5 @@
 ## Информация обо мне
+[:flag_us: English](https://github.com/xh360/xh360/english/README.MD)
 
 - Немного кодописатель на JavaScript, Java
 - В душе немного [каракал](https://ru.wikipedia.org/wiki/Каракал)
