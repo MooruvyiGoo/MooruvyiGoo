@@ -1,12 +1,13 @@
 # Who i am?
-- My nickname is xh360, i'm a russian student.
-- Languages: Russian (native), English (middle-poor)
+- My nickname is xh360, I'm a russian student.
+- Languages: Russian (native), English (decent)
 - Average kvas enjoyer
-- Sometimes playing Minecraft JE (BE sucks), World of Goo (and 2 too), Euro Truck Simulator, Garry's Mod
+- Sometimes playing Minecraft JE (BE sucks), World of Goo (and 2 too), Euro Truck Simulator, Garry's Mod. Also Mindustry is the cool and atmospheric game but it's a little hard. 
 - Writing JS, Java, Lua (for [OC](https://www.curseforge.com/minecraft/mc-mods/opencomputers)). 
-- and i Tried in the past: C#, C++, Rust, C, Python (for a long time)
+- and I've try in the past: C#, C++, Rust, C, Python (for a long time)
 - I use Windows 11 (on primary), Windows 10 (laptop)
 - Average industrial aesthetics enjoyer
+- who is fuck am i...
 
 
 [`@xh360`](https://t.me/xh360) (telegram) | [`@xh360`](https://discord.com/users/726656183817076738) (discord)
