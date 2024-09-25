@@ -3,7 +3,8 @@
 - Languages: Russian (native), English (middle-poor)
 - Average kvas enjoyer
 - Sometimes playing Minecraft JE (BE sucks), World of Goo (and 2 too), Euro Truck Simulator, Garry's Mod
-- Writing JS, Java, Lua (for [OC](https://www.curseforge.com/minecraft/mc-mods/opencomputers). Tried in the past: C#, C++, Rust, C, Python (for a long time)
+- Writing JS, Java, Lua (for [OC](https://www.curseforge.com/minecraft/mc-mods/opencomputers)). 
+- and i Tried in the past: C#, C++, Rust, C, Python (for a long time)
 - I use Windows 11 (on primary PC), Windows 10 (laptop)
 - Average industrial aesthetics enjoyer
 
