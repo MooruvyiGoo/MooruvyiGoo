@@ -7,6 +7,7 @@
 - and I've try in the past: C#, C++, Rust, C, Python (for a long time)
 - I use Windows 11 (on primary), Windows 10 (laptop)
 - Average industrial aesthetics enjoyer
+- I love Ural homeland
 - who is fuck am i...
 
 
