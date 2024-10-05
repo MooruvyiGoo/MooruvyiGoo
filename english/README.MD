@@ -1,13 +1,13 @@
 # Who i am?
 
-## Primary information
+## About me
 👤 My nickname is xh360, I'm a russian student.
 🌐 Languages: Russian (native), English (decent)
 🕒 I'm prefering 24-hour format instead 12-hour
 ⏰ My timezone is UTC+05 (Yekaterinburg, Ural)
 📏 I'm prefecting the metrical system (meters, gramms) and Celsius temperature scale
 
-## Secondary information
+## Interests 
 🍺 Average kvas enjoyer
 
 🎮 Sometimes playing Minecraft JE (BE sucks), World of Goo (and 2 too), Euro Truck Simulator, Garry's Mod. Also Mindustry is the cool and atmospheric game but it's a little hard. 
