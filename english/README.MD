@@ -2,9 +2,13 @@
 
 ## About me
 👤 My nickname is xh360, I'm a russian student.
+
 🌐 Languages: Russian (native), English (decent)
+
 🕒 I'm prefering 24-hour format instead 12-hour
+
 ⏰ My timezone is UTC+05 (Yekaterinburg, Ural)
+
 📏 I'm prefecting the metrical system (meters, gramms) and Celsius temperature scale
 
 ## Interests 
