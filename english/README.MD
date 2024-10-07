@@ -1,4 +1,4 @@
-# Who i am?
+# Who am i?
 
 ## About me
 👤 My nickname is xh360, I'm a russian student.
