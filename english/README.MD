@@ -26,6 +26,8 @@
 
 💚 I love Ural homeland
 
+🥛 Oh buddy. You had too much milk! Let's get you home
+
 ❓ who is fuck am i...
 
 ## Links
