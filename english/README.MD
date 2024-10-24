@@ -11,7 +11,7 @@
 
 📏 I'm prefecting the metrical system (meters, gramms) and Celsius temperature scale
 
-\* rating by acquaintance whose primary language is English but not native
+\* rating by acquaintance whose primary language is English but not English isn't native
 
 ## Interests 
 🍺 Average kvas enjoyer
