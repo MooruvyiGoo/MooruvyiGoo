@@ -3,13 +3,15 @@
 ## About me
 👤 My nickname is xh360, I'm a russian student.
 
-🌐 Languages: Russian (native), English (decent)
+🌐 Languages: Russian (native), English (B1\*)
 
 🕒 I'm prefering 24-hour format instead 12-hour
 
 ⏰ My timezone is UTC+05 (Yekaterinburg, Ural)
 
 📏 I'm prefecting the metrical system (meters, gramms) and Celsius temperature scale
+
+\* rating by acquaintance whose primary language is English but not native
 
 ## Interests 
 🍺 Average kvas enjoyer
@@ -36,4 +38,4 @@
 
 Rarely used: [`@xh360:matrix.org`](https://matrix.to/#/@xh360:matrix.org)\* | [`@xh360@mastodon.social`](https://mastodon.social/@xh360)
 
-\* The domain matrix.org has been blocked in my country, so {draft}
+\* The instance matrix.org (API-domain for clients matrix-client.matrix.org) has been blocked in my country, so i must to find alternatives.
