@@ -34,6 +34,6 @@
 
 [`@xh360`](https://t.me/xh360) (telegram) | [`@xh360`](https://discord.com/users/726656183817076738) (discord)
 
-Rarely used: [`@xh360:ixy.su`](https://matrix.to/#/@xh360:ixy.su)\* | [`@xh360:matrix.org`](https://matrix.to/#/@xh360:matrix.org)\* | [`@xh360@mastodon.social`](https://mastodon.social/@xh360)
+Rarely used: [`@xh360:matrix.org`](https://matrix.to/#/@xh360:matrix.org)\* | [`@xh360@mastodon.social`](https://mastodon.social/@xh360)
 
-\* The domain matrix.org has been blocked in my country, so i registered reserve spare/emergency account in the instance of my acquaintance (ixy.su)
+\* The domain matrix.org has been blocked in my country, so {draft}
