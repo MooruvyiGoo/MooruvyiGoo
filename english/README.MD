@@ -1,7 +1,7 @@
 # Who am i?
 
 ## About me
-👤 My nickname is xh360, I'm a russian student.
+👤 My nickname is xh360, I'm a Russian student.
 
 🌐 Languages: Russian (native), English (A2*)
 
