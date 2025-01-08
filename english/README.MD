@@ -3,7 +3,7 @@
 ## About me
 👤 My nickname is xh360, I'm a russian student.
 
-🌐 Languages: Russian (native), English (B1\*)
+🌐 Languages: Russian (native), English (A2*)
 
 🕒 I'm prefering 24-hour format instead 12-hour
 
@@ -11,7 +11,7 @@
 
 📏 I'm prefecting the metrical system (meters, gramms) and Celsius temperature scale
 
-\* rating by acquaintance whose primary language is English but not English isn't native
+\* selfrating. i didn't use tests
 
 ## Interests 
 🍺 Average kvas enjoyer
